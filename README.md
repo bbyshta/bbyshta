@@ -16,7 +16,7 @@
 - Angular
 
 ## Посмотрите мои закрепленные проекты! 
-- [Проект Mesto](https://github.com/bbyshta/tik-talk)
+- [Проект Mesto](https://github.com/bbyshta/mesto-project-ff)
 - [Проект на Angular](https://github.com/bbyshta/tik-talk)
 
 ## Мои контакты
