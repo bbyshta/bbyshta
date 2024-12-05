@@ -1,16 +1,22 @@
-## Hi there 👋
+## Привет, меня зовут Паша! 👋
+Я студент и frontend-разработчик из Москвы. Направление - информационная безопасность. В данный момент изучаю React. 
+- Стремлюсь к улучшению своих навыков
+- Люблю создавать что-то интересное
+- **Активно ищу работу.** [Вот мое резюме на HH](https://hh.ru/resume/5800d3a9ff0e12adc80039ed1f6a6b70454376)
 
-<!--
-**bbyshta/bbyshta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Мой стек
+- HTML
+- CSS, SASS, SCSS
+- GIT
+- JS
+- TS
+- WebPack
+- Gulp
+- Figma
+- Angular
 
-Here are some ideas to get you started:
+## Посмотрите мои закрепленные проекты! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои контакты
+- pavelkrat.dev@gmail.com
+- [Телеграм](https://t.me/bVbyshXXtV)
