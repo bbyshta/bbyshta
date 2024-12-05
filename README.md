@@ -16,6 +16,8 @@
 - Angular
 
 ## Посмотрите мои закрепленные проекты! 
+- [Проект Mesto](https://github.com/bbyshta/tik-talk)
+- [Проект на Angular](https://github.com/bbyshta/tik-talk)
 
 ## Мои контакты
 - pavelkrat.dev@gmail.com
